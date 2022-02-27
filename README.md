@@ -1,2 +1,2 @@
 # HTML-egitimi
-Patika HTML eğitimi
+Bu çalışma Patika HTML Eğitimi'nin ilk ödevidir.
